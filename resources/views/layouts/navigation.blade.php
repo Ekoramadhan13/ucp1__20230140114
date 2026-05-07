@@ -28,11 +28,10 @@
                         {{ __('Product') }}
                     </x-nav-link>
 
-                    @can('manage-category')
-                    <x-nav-link :href="route('category.index')" :active="request()->routeIs('category.*')">
-                        {{ __('Category') }}
-                    </x-nav-link>
-                    @endcan
+                    {{-- Link Category (Standard A Tag) --}}
+                    <a href="/category" class="inline-flex items-center px-1 pt-1 text-sm font-semibold leading-5 text-gray-400 hover:text-white transition duration-150 ease-in-out {{ request()->is('category*') ? 'text-white font-bold' : '' }}">
+                        Category
+                    </a>
 
                 </div>
             </div>
