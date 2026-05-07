@@ -152,3 +152,32 @@ ABOUT
 
 
 <img width="1920" height="1080" alt="Cuplikan layar 2026-04-24 210855" src="https://github.com/user-attachments/assets/4dc72246-78e6-423f-9ec2-d09e730b844a" />
+
+
+
+
+***TUGAS UCP 1***
+
+
+
+***create category***
+
+<img width="1920" height="1080" alt="Cuplikan layar 2026-04-25 184615" src="https://github.com/user-attachments/assets/dbf609ff-aae5-4313-b0e4-e8a0ae79bdff" />
+
+
+
+***Menampilkan Category list***
+
+<img width="1920" height="1080" alt="Cuplikan layar 2026-04-25 184423" src="https://github.com/user-attachments/assets/0edb559a-a9cf-4af8-8510-d04044b27e09" />
+
+
+
+***Tambah produk dengan category yang sudah di buat***
+
+<img width="1920" height="1080" alt="Cuplikan layar 2026-04-25 184517" src="https://github.com/user-attachments/assets/c5b79f84-96f8-4449-8a73-a500401fbb39" />
+
+
+***Menampilkan hasil yg sudah dibuat***
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/623cf08b-75ea-4659-9ce8-00a64f14def3" />
+
